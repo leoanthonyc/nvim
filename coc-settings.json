@@ -9,12 +9,17 @@
     "html",
     "yaml",
     "json",
-    "python"
+    "python",
+    "ruby"
   ],
   "explorer.width": 30,
   "explorer.previewAction.onHover": false,
   "explorer.keyMappings.global": {
     "<cr>": ["expandable?", "expand", "open"],
     "v": "open:vsplit"
-  }
+  },
+  "solargraph.diagnostics": true,
+  "solargraph.autoformat": true,
+  "solargraph.formatting": true,
+  "solargraph.hover": true
 }
